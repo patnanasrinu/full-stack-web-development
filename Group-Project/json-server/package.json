@@ -1,0 +1,13 @@
+
+{
+  "name": "group-project-json-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "JSON Server for Group Project",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000"
+  },
+  "dependencies": {
+    "json-server": "0.17.4"
+  }
+}
