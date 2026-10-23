@@ -1,0 +1,22 @@
+
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Srinu",
+      "course": "Full Stack Web Development"
+    },
+    {
+      "id": 2,
+      "name": "Student 2",
+      "course": "Full Stack Web Development"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Group Project",
+      "status": "In Progress"
+    }
+  ]
+}
